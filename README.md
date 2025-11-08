@@ -15,6 +15,6 @@ __Conclusion__
 
 As mentioned earlier, this idea is a basic one. However, this is also the idea that most online stores have based their websites on. Although it is not new, I think learning to build a web app like this is important, considering how common this type of website is. For now, this is the idea that I have. Some feedback would be greatly appreciated!
 
-__WireFrame__
+__WireFrame Images__
 
-![alt-text](https://github.com/Natalado/Basic-Merch-Store/blob/main/Screenshot%202025-11-08%20143353.png "Wirefame Image")
+![alt-text](https://github.com/Natalado/Basic-Merch-Store/blob/main/Screenshot%202025-11-08%20143353.png "Wirefame Image 1")  ![alt-text](https://github.com/Natalado/Basic-Merch-Store/blob/main/Screenshot%202025-11-08%20144919.png "Wireframe Image 2")
