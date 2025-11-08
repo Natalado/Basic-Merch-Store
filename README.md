@@ -17,4 +17,4 @@ As mentioned earlier, this idea is a basic one. However, this is also the idea t
 
 __WireFrame__
 
-
+![alt-text](Screenshot 2025-11-08 143353.png)
