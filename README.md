@@ -14,3 +14,7 @@ Users will also be able to create an account to buy items displayed on the store
 __Conclusion__
 
 As mentioned earlier, this idea is a basic one. However, this is also the idea that most online stores have based their websites on. Although it is not new, I think learning to build a web app like this is important, considering how common this type of website is. For now, this is the idea that I have. Some feedback would be greatly appreciated!
+
+__WireFrame__
+
+
